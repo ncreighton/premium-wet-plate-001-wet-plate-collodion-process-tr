@@ -1,0 +1,2 @@
+# premium-wet-plate-001-wet-plate-collodion-process-tr
+Tired of losing the exact combination of collodion age, silver bath pH, and development time that gave you that perfect tintype? Stop guessing and start tracking every variable that matters.  The Wet Plate Collodion Process Tracker transforms your Notion workspace into a forensic lab for your plate making. Log every plate from coating to varnish, c
